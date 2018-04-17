@@ -1,4 +1,4 @@
-A simple reac-native TODO list with Redux-persistence support
+A simple react-native TODO list with Redux-persistence support
 ------------------------
 
 @2018/04/17
